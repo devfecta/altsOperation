@@ -1,0 +1,15 @@
+[10-Jul-2018 10:35:26 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT post_id, meta_key, meta_value FROM altop_postmeta WHERE post_id IN (2) ORDER BY meta_id ASC made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, update_post_caches, update_postmeta_cache, update_meta_cache
+[11-Sep-2018 11:08:27 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 736
+[13-Sep-2018 07:29:14 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 736
+[05-Feb-2019 17:43:44 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 2053
+[05-Feb-2019 17:43:44 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/koryalt/public_html/wp-includes/canonical.php on line 206
+[31-Mar-2019 07:55:26 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 755
+[04-Apr-2019 16:16:11 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 755
+[06-Apr-2019 22:25:01 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 755
+[08-Apr-2019 05:36:52 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/koryalt/public_html/wp-includes/class-wp-query.php on line 755
+[08-Jun-2019 21:33:20 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/koryalt/public_html/wp-settings.php on line 19
+[08-Jun-2019 21:33:20 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/koryalt/public_html/wp-settings.php on line 19
+[08-Jun-2019 21:33:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/koryalt/public_html/wp-settings.php on line 19
+[08-Jun-2019 23:37:55 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/koryalt/public_html/wp-settings.php on line 19
+[08-Jun-2019 23:37:55 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/koryalt/public_html/wp-settings.php on line 19
+[08-Jun-2019 23:37:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/koryalt/public_html/wp-settings.php on line 19

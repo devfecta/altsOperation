@@ -1,0 +1,56 @@
+[07-Nov-2019 16:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 16:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 17:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 17:01:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 17:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[07-Nov-2019 17:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/koryalt/public_html/wp-content/themes/Divi/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/index.php on line 1
+[09-Dec-2019 20:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/koryalt/public_html/wp-content/themes/Divi/functions.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/functions.php on line 101
+[09-Dec-2019 21:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/koryalt/public_html/wp-content/themes/Divi/functions.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/koryalt/public_html/wp-content/themes/Divi/functions.php on line 101

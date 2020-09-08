@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Divi Child
+ Theme URI:    http://www.altsoperation.com/Divi-Child/
+ Description:  Divi Child Theme
+ Author:       DevFecta
+ Author URI:   http://www.altsoperation.com
+ Template:     Divi
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-menu, custom-header, custom-background
+ Text Domain:  Divi-Child
+*/
+
+.et_pb_slide_content 
+{ 
+	font-weight:bolder; 
+	font-size: 2em;
+	line-height: 1.5em;
+}
